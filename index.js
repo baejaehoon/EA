@@ -40,7 +40,7 @@ eas = {
 		$('<div id="pushon" value="푸시켜기" class="pushon" onClick="click_pushon();" />').appendTo($('body'));
 		$('<div id="pushoff" value="푸시끄기" class="pushoff" onClick="click_pushoff();" />').appendTo($('body'));
 		$('<a href="http://eaea.herokuapp.com/" id="home" class="home">챗홈</a>').appendTo($('body')); 
-		$('<a href="http://github.com/ireanea/new" id="some" class="home">구축</a>').appendTo($('body')); 
+		$('<a href="http://github.com/ireanea/new" id="some" class="some">구축</a>').appendTo($('body')); 
 		$('<div id="backon" value="배경켜기" class="backon" onClick="click_backon();" />').appendTo($('body'));
 		$('<div id="backoff" value="배경끄기" class="backoff" onClick="click_backoff();" />').appendTo($('body'));
 		$('<div id="backoff" value="배경끄기" class="backoff" onClick="click_backoff();" />').appendTo($('body'));
